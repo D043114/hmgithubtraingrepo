@@ -1,0 +1,6 @@
+
+Hier ist der Status des Repositories im Master mit dem letzen Commit des Masters bevor das Experiment startete.
+
+Master macht hier seinen letzen Eintrag 
+
+*************************************************
