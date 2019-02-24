@@ -6,3 +6,4 @@ Master macht hier seinen letzen Eintrag
 Commit 1 im Master 
 Commit 2 im Master
 *************************************************
+Commit 3 im Master, der könnte Tricky werden.
