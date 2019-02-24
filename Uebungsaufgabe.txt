@@ -4,4 +4,5 @@ Hier ist der Status des Repositories im Master mit dem letzen Commit des Masters
 Master macht hier seinen letzen Eintrag 
 
 Commit 1 im Master 
+Commit 2 im Master
 *************************************************
